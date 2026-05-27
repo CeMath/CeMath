@@ -1,4 +1,4 @@
-![banner](./sudo.png)
+![banner](./banner.png)
 # Hi, I'm CeMath 👋
 
 Linux SysAdmin focused on automation, infrastructure and self-hosting.
